@@ -3,17 +3,17 @@
   "name": "Global COVID-19 Tracker | Develop By Pagla Group",
   "icons": [
     {
-      "src": "pagla.png",
+      "src": "./pagla.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "pagla.png",
+      "src": "./pagla.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "pagla.png",
+      "src": "./pagla.png",
       "type": "image/png",
       "sizes": "512x512"
     }
